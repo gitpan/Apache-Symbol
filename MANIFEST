@@ -1,0 +1,5 @@
+Makefile.PL
+Symbol.pm
+Symbol.xs
+MANIFEST
+test.pl
